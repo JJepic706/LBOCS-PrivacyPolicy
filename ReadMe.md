@@ -31,6 +31,6 @@
 
 - For Questions/Inquireies, Contact me at this email = devjoshu13@gmail.com
 - For feedback on my app, Email me or do the following form = https://forms.gle/dMxR5gUpioyp1cgx6
-- Google Play store page = *comning soon*
-- App Store page = *comning soon*
+- Google Play store page = *coming soon*
+- App Store page = *coming soon*
 - If you like this app and want to support me, consider donating here = https://www.buymeacoffee.com/devjoshu13
